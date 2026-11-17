@@ -1,0 +1,8 @@
+{
+  "name": "Harmonia Student House Dramaga-Bogor",
+  "description": "Aset investasi properti kost modern syariah di kawasan Ring 1 Kampus IPB Dramaga, Bogor. Dikembangkan oleh Isykariman Property Syariah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
